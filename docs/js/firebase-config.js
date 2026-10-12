@@ -1,15 +1,15 @@
-// Конфигурация проекта Firebase «msu-course-3d».
+// Конфигурация проекта Firebase english-for-administrators.
 // Эти значения не секретны: данные защищают правила Firestore.
 const firebaseConfig = {
-  apiKey: "AIzaSyAbxKXWkEfkJcawtuStGyjUapVImeVxSgc",
-  authDomain: "msu-course-3d.firebaseapp.com",
-  projectId: "msu-course-3d",
-  storageBucket: "msu-course-3d.firebasestorage.app",
-  messagingSenderId: "309274497468",
-  appId: "1:309274497468:web:7110cd35dfa11b52d39bb9"
+  apiKey: "AIzaSyDXFZ4N6XKI94lj-5alHYFrf1fdQCVJqZQ",
+  authDomain: "english-for-administrators.firebaseapp.com",
+  projectId: "english-for-administrators",
+  storageBucket: "english-for-administrators.firebasestorage.app",
+  messagingSenderId: "485487283405",
+  appId: "1:485487283405:web:1e705e01b7187a6dae6d84"
 };
 
 export { firebaseConfig };
 
-// Название курса — показывается в шапке и на экране входа.
+// Название курса - показывается в шапке и на экране входа.
 export const COURSE_TITLE = "English for Public Administration";
